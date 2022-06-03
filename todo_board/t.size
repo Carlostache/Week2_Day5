@@ -1,0 +1,13 @@
+=> [32m#<List:0x000055b0ff2677c0[0m
+ @items[32m=[0m
+  [[32m#<Item:0x000055b0fefa0690[0m
+    @deadline[32m=[0m[31m[1;31m"[0m[31m2019-10-25[1;31m"[0m[31m[0m,
+    @description[32m=[0m[31m[1;31m"[0m[31mGet American and Feta for good measure.[1;31m"[0m[31m[0m,
+    @title[32m=[0m[31m[1;31m"[0m[31mcheese[1;31m"[0m[31m[0m[32m>[0m,
+   [32m#<Item:0x000055b0ff321a30[0m @deadline[32m=[0m[31m[1;31m"[0m[31m2019-10-25[1;31m"[0m[31m[0m, @description[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m, @title[32m=[0m[31m[1;31m"[0m[31mtoothpaste[1;31m"[0m[31m[0m[32m>[0m,
+   [32m#<Item:0x000055b0ff5593e8[0m @deadline[32m=[0m[31m[1;31m"[0m[31m2019-10-24[1;31m"[0m[31m[0m, @description[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m, @title[32m=[0m[31m[1;31m"[0m[31mshampoo[1;31m"[0m[31m[0m[32m>[0m,
+   [32m#<Item:0x000055b0ff57b1a0[0m
+    @deadline[32m=[0m[31m[1;31m"[0m[31m2019-10-31[1;31m"[0m[31m[0m,
+    @description[32m=[0m[31m[1;31m"[0m[31m4 bags should be enough[1;31m"[0m[31m[0m,
+    @title[32m=[0m[31m[1;31m"[0m[31mcandy[1;31m"[0m[31m[0m[32m>[0m],
+ @label[32m=[0m[31m[1;31m"[0m[31mGroceries[1;31m"[0m[31m[0m[32m>[0m
